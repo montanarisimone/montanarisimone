@@ -1,4 +1,18 @@
 ### Hi there 👋
+  
+Studies:  
+:mortar_board: Statistics bachelor degree  
+:books:	Currently learning ML  
+  
+Hobbies:  
+:ambulance: Red Cross volunteer  
+:computer: Coding enthusiast -> I'm improving python skills :snake:  
+:maple_leaf: Nature lover  
+:climbing: Climb twice a month at least  
+:mountain: Hike once a week!  
+:camera: Portrait ph
+
+
 
 
 
