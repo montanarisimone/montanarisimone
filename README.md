@@ -1,7 +1,7 @@
 ### Hi there 👋
   
 Studies:  
-:mortar_board: Statistics bachelor degree -> currently writing my thesis (
+:mortar_board: Statistics bachelor degree -> currently writing my thesis ([B.Sc. Thesis](https://github.com/montanarisimone/flood-damage))  
 :books:	Currently learning ML  
   
 Hobbies:  
