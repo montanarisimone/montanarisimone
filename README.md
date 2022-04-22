@@ -10,7 +10,8 @@ Hobbies:
 :maple_leaf: Nature lover  
 :climbing: Climb twice a month at least  
 :mountain: Hike once a week!  
-:camera: Portrait ph
+:camera: Portrait ph  
+:chains: Currently learning about crypto and blockchain
 
 
 
