@@ -1,7 +1,7 @@
 ### Hi there 👋
   
 Studies:  
-:mortar_board: Statistics bachelor degree -> currently writing my thesis (ask for access)  
+:mortar_board: Statistics bachelor degree
 :books:	Currently learning ML  
   
 Hobbies:  
