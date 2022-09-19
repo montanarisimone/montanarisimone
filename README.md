@@ -1,7 +1,8 @@
 ### Hi there 👋
   
 Studies:  
-:mortar_board: Statistics bachelor degree  
+:mortar_board: Data Science Master degree...in progress:dizzy_face:  
+:mortar_board: Statistics Bachelor degree...done:bowtie:  
 :books:	Currently learning ML  
   
 Hobbies:  
