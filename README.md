@@ -1,13 +1,13 @@
 ### Hi there 👋
   
 Studies:  
-:mortar_board: Data Science Master degree...in progress:dizzy_face:  
-:mortar_board: Statistics Bachelor degree...done:bowtie:  
+:mortar_board: Data Science Master degree...in progress :dizzy_face:  
+:mortar_board: Statistics Bachelor degree...done :bowtie:  
 :books:	Currently learning ML  
   
 Hobbies:  
 :ambulance: Red Cross volunteer  
-:computer: Coding enthusiast -> I'm improving python skills :snake:  
+:computer: Coding enthusiast   
 :maple_leaf: Nature lover  
 :climbing: Climb twice a month at least  
 :mountain: Hike once a week!  
