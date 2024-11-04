@@ -8,7 +8,6 @@ Studies:
 Hobbies:  
 :ambulance: Red Cross volunteer  
 :computer: Not professional coder but coding enthusiast   
-:climbing: Climb twice a month at least  
 :mountain: Hike once a week!  
 :camera: Portrait ph  
 
