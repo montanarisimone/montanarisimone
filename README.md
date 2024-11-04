@@ -3,7 +3,7 @@
 Studies:  
 :mortar_board: Quantitative Finance Master degree...in progress :dizzy_face:  
 :mortar_board: Statistics Bachelor degree...done :bowtie:  
-:books:	Currently learning to become PMO
+:books:	Currently learning to become PM
   
 Hobbies:  
 :ambulance: Red Cross volunteer  
