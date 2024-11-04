@@ -3,18 +3,14 @@
 Studies:  
 :mortar_board: Quantitative Finance Master degree...in progress :dizzy_face:  
 :mortar_board: Statistics Bachelor degree...done :bowtie:  
-:books:	Currently learning ML  
+:books:	Currently learning to become PMO
   
 Hobbies:  
 :ambulance: Red Cross volunteer  
-:computer: Coding enthusiast   
-:maple_leaf: Nature lover  
+:computer: Not professional coder but coding enthusiast   
 :climbing: Climb twice a month at least  
 :mountain: Hike once a week!  
 :camera: Portrait ph  
-:chains: Currently learning about crypto and blockchain
-
-
 
 
 
